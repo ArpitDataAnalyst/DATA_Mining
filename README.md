@@ -1,2 +1,2 @@
 # DATA_Mining
-Insurance company facing higher claim frequency using data mining (Random forest, Decision Tree, KNN)
+A leading bank wants to develop a customer segmentation to give promotional offers to its customers. (Random forest, Decision Tree, KNN)
